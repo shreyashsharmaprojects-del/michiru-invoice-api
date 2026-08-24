@@ -2,7 +2,7 @@
 
 A production-shaped **Spring Boot REST API** that manages invoices and
 automatically chases the unpaid ones — the backend of a two-part portfolio
-demo, paired with the [Invoice Automation Dashboard](https://github.com/<your-handle>/michiru-dashboard).
+demo, paired with the [Invoice Automation Dashboard](https://github.com/shreyashsharmaprojects-del/michiru-dashboard).
 
 > **The business problem it solves:** invoices get sent, then forgotten.
 > This API tracks every invoice through a real state machine and runs a
